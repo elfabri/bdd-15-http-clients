@@ -1,3 +1,9 @@
+/* Complete the issueList and userObject string constant values.
+ *
+ * issueList is a JSON array containing two issues (object literals).
+ *
+ * userObject is a JSON object literal that represents a Jello user.
+*/
 package main
 
 const issueList = `
